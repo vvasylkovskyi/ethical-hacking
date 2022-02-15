@@ -2,6 +2,10 @@
 
 Ethical Hacking games
 
+## Writing Python Scripts | Example
+
+`$ python -c "print ('%08x.' * 16 + '%s')" > ./input-txt.txt `
+
 ## XSS
 
 ### How to access `Github JS CDN file`
